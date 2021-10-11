@@ -677,7 +677,7 @@ MonoBehaviour:
   player1: {fileID: 1406879126}
   player2: {fileID: 1210284708}
   ball: {fileID: 410868973}
-  maxScore: 2
+  maxScore: 7
   trajectory: {fileID: 377503905}
 --- !u!4 &1002639717
 Transform:
